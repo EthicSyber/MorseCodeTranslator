@@ -1,5 +1,9 @@
 # MORSE CODE TRANSLATOR
 
+This project was developed as an initial step to showcasing python skills and learning more about morse code. It does not use anything additional for download as it was developed without any extras (libraries/modules etc.). The current version of the project has a class that represents the translator to and from morse code [I will edit this out later, but I intend to update both the readme and the code to be more presentable at another time].
+
+Below I add some background from Wikipedia on Morse Code and provided some project guidance as well as possible suggestions to get started with morse code to character mapping.
+
 <a href=https://en.wikipedia.org/wiki/Morse_code>MORSE CODE</a>
 
 <a href="https://en.wikipedia.org/wiki/Prosigns_for_Morse_code">MORSE CODE PROSIGN</a>
@@ -20,7 +24,7 @@ Date: 1866 (wikipedia. 2025)
 
 <img style="background-color: white" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Morse_comparison.svg/960px-Morse_comparison.svg.png" width=500px, hieght=800px>
 
-## REQUIREMENTS GUIDE
+## REQ-GUIDE
 * There is <strong>no distinction</strong> between <em>upper and lowercase letters</em>.
 * Each code symbol forms a sequence of dits and dahs (duration can vary).
 * The duration of a dah is three times the duration of a dit. 
@@ -28,7 +32,7 @@ Date: 1866 (wikipedia. 2025)
 * Letters of a word are separated by a duration equal to three dits.
 * Words are separated by a space equal to seven dits.
 
-## Suggestions to Start
+## STARTING SUGGESTIONS
 <pre>
 1. Python Dictionary | json : using a key=val pair distinct - letter (key) and code (value) for translation
 example (recommend string sequence instead of below i.e., '....   .   ---   ---'): 
