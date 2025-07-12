@@ -7,9 +7,9 @@
 
 ## WHAT IS MORSE CODE?
 
-<pre style='color: rgb(221, 221, 221); background-color: rgb(0, 87, 255, 0.3)'>
+
 <b style='color:rgb(241, 147, 101)'>Morse Code</b> is a telecommunications method that encodes text in standardized sequences called <em>dits</em> and <em>dahs</em> (or dots and dashes). This encoding scheme was named after <span style='color:skyblue'><strong>Samuel Morse</strong></span>, one of the early developers of the system adopted for electrical telegraphy. It is usually transmitted by on-off keying using a medium such as electric current, radio waves, visible light, or sound waves. This wave (or current) is present during the time period of the dit/dah and absent during the time between them (wikipedia. 2025). 
-</pre>
+
 
 Samuel Finley Breese Morse 
 
