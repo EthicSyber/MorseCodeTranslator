@@ -1,4 +1,4 @@
-<img width="860" height="379" alt="morse-ascii-text-art" src="https://github.com/user-attachments/assets/a8720aca-c087-4db3-b1af-3398267e6787" />
+<img width="860" height="350" alt="ascii-text-art" src="https://github.com/user-attachments/assets/c4508d4a-e343-4018-bcf1-b3c15151ec04" />
 
 This project was developed as an initial step to showcasing python skills and learning more about morse code. It does not use anything additional for download as it was developed without any extras (libraries/modules etc.). The current version of the project has a class that represents the translator to and from morse code [I will edit this out later, but I intend to update both the readme and the code to be more presentable at another time].
 
