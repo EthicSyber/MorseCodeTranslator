@@ -1,4 +1,4 @@
-# MORSE CODE TRANSLATOR
+<img src="../morse-ascii-text-art.png" alt="ascii-art">
 
 This project was developed as an initial step to showcasing python skills and learning more about morse code. It does not use anything additional for download as it was developed without any extras (libraries/modules etc.). The current version of the project has a class that represents the translator to and from morse code [I will edit this out later, but I intend to update both the readme and the code to be more presentable at another time].
 
